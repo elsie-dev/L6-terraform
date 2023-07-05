@@ -7,5 +7,5 @@ Installing Terraform
 Creating Terraform manifest to deploy 1 instance
 Confirm an instance is running
 Creating a new manifest to deploy 20 instances.
-Deploying Loadbalancer
-Command to destroy resources
+Deploying load balancer
+Command to destroy the previously created resources.
